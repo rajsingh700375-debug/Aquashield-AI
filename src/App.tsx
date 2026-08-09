@@ -27,8 +27,8 @@ import {
   X,
   Zap,
 } from 'lucide-react';
-import monjit from '@/assets/images/leadership/Founder-1_Monjit_Singh.jpeg';
-import siddhartha from '@/assets/images/leadership/Founder_-2_Siddhartha_Paul.jpeg';
+import monjit from '@/assets/leadership/Founder-1_Monjit_Singh.jpeg';
+import siddhartha from '@/assets/leadership/Founder_-2_Siddhartha_Paul.jpeg';
 
 type View = 'home' | 'technology' | 'command' | 'monitor' | 'alerts' | 'maintenance' | 'insights' | 'efficiency';
 type Modal = 'asset' | 'work-order' | 'investigate' | 'report' | null;
